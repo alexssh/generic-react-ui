@@ -1,1 +1,1 @@
-# generic-react-ui
+# design-system-playground
